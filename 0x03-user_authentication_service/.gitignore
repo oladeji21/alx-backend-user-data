@@ -1,0 +1,6 @@
+a.db
+main_*.py
+__pycache__
+.db_User.json
+.venv
+.db_UserSession.json
